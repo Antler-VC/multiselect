@@ -1,7 +1,7 @@
 {
   "version": "0.9.7",
   "license": "MIT",
-  "name": "@antlerengineering/multiselect",
+  "name": "@antlervc/multiselect",
   "publishConfig": {
     "access": "public"
   },
